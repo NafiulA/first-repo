@@ -1,0 +1,12 @@
+div{
+    height: 600px;
+    width: 800px;
+    border: 5px;
+    border-style: groove;
+    border-color: lightslategray;
+    margin: 25px;
+    } 
+img{
+    height: 420px;
+    width: 720px;
+    }
