@@ -4,7 +4,7 @@ div{
     border: 5px;
     border-style: groove;
     border-color: lightslategray;
-    margin: 25px;
+    margin: 50px auto;
     background-color: beige;
     padding: 10px;
     } 
